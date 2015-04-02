@@ -104,6 +104,7 @@
     <style name="Theme.AlertDialog" parent="android:Theme.Material.Dialog.Alert">
         <item name="android:colorPrimary">@color/colorPrimary</item>
         <item name="android:colorAccent">@color/colorAccent</item>
+        <item name="android:colorBackground">@color/colorBackgroundDark</item>
     </style>
 
 </resources>
